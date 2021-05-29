@@ -106,14 +106,4 @@ class Window
               size: 20, color: 'black')
     end
   end
-
-
-
-
-
-
-
-
-
-
 end
